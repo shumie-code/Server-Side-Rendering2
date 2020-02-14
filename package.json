@@ -1,0 +1,30 @@
+{
+  "name": "server-side-rendering2",
+  "version": "1.0.0",
+  "description": "Isomorpgic rendering for client and seo optimization via node and express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shumie-code/Server-Side-Rendering2.git"
+  },
+  "keywords": [
+    "isomorphic",
+    "universal",
+    "server",
+    "side",
+    "ssr",
+    "node",
+    "express",
+    "js",
+    "nextjs"
+  ],
+  "author": "Petros Shumie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shumie-code/Server-Side-Rendering2/issues"
+  },
+  "homepage": "https://github.com/shumie-code/Server-Side-Rendering2#readme"
+}
