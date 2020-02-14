@@ -2,9 +2,9 @@
   "name": "server-side-rendering2",
   "version": "1.0.0",
   "description": "Isomorpgic rendering for client and seo optimization via node and express js",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,12 @@
   "bugs": {
     "url": "https://github.com/shumie-code/Server-Side-Rendering2/issues"
   },
-  "homepage": "https://github.com/shumie-code/Server-Side-Rendering2#readme"
+  "homepage": "https://github.com/shumie-code/Server-Side-Rendering2#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "express": "^4.17.1",
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
 }
